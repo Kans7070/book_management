@@ -1,0 +1,18 @@
+.navbar_holder{
+    height : 52px;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    color:black;
+    border-bottom: 1px solid black;
+}
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.navbar p{
+    width :fit-content;
+    font-size:32px;
+    font-weight:bold;
+}
